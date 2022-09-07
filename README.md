@@ -27,4 +27,4 @@ temas de Data Science, Machine Learning, y Riesgos Financieros.
 - 💼[Portafolio](https://laurabetancourt.notion.site/Portafolio-7200b6313a024491809be009f5b1932a|350)
 - 📧 laura.betancourt.leal@gmail.com 
 
-![](https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+![](https://media-exp1.licdn.com/dms/image/D5616AQFzaE1kqgOMYQ/profile-displaybackgroundimage-shrink_350_1400/0/1662532305044?e=1668038400&v=beta&t=1Yx6lq72PYPQdZbdFD1iOXa6-e9mv09vpzNftV1aFA4)
