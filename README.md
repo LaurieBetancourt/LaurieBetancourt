@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://media-exp1.licdn.com/dms/image/D5616AQFzaE1kqgOMYQ/profile-displaybackgroundimage-shrink_350_1400/0/1662532305044?e=1668038400&v=beta&t=1Yx6lq72PYPQdZbdFD1iOXa6-e9mv09vpzNftV1aFA4)
+
 # ⚡Acerca de mi 
 
 Mi nombre es Laura Elena. Soy Actuaria, egresada de la 
@@ -27,4 +30,3 @@ temas de Data Science, Machine Learning, y Riesgos Financieros.
 - 💼[Portafolio](https://laurabetancourt.notion.site/Portafolio-7200b6313a024491809be009f5b1932a|350)
 - 📧 laura.betancourt.leal@gmail.com 
 
-![](https://media-exp1.licdn.com/dms/image/D5616AQFzaE1kqgOMYQ/profile-displaybackgroundimage-shrink_350_1400/0/1662532305044?e=1668038400&v=beta&t=1Yx6lq72PYPQdZbdFD1iOXa6-e9mv09vpzNftV1aFA4)
