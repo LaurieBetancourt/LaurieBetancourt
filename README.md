@@ -27,6 +27,11 @@ temas de Data Science, Machine Learning, y Riesgos Financieros.
 
 ## Info
 
-- 💼[Portafolio](https://laurabetancourt.notion.site/Portafolio-7200b6313a024491809be009f5b1932a|350)
+- 💼[LinkedIn](https://www.linkedin.com/in/lauraebetancourtleal)
 - 📧 laura.betancourt.leal@gmail.com 
 
+## Conocimientos
+
+- R
+- Python
+- SQL
