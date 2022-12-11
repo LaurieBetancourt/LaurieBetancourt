@@ -35,3 +35,10 @@ temas de Data Science, Machine Learning, y Riesgos Financieros.
 - R
 - Python
 - SQL
+
+## Aprendiendo
+
+- JavaScript
+- HTML
+- CSS
+
